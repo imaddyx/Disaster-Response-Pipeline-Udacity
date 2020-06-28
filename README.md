@@ -63,3 +63,6 @@ python run.py
 ```
 
 3. Go to http://0.0.0.0:3001/
+
+
+Thanks! You can find the code here on my Github [Link](https://github.com/imaddyx/Disaster-Response-Pipeline-Udacity)
